@@ -6,5 +6,5 @@ layout: default
 title: Welcome!
 ---
 ![]()
-# Greetings, fellow humanoid life-form. I'm Jieruei Chang.
+# Greetings, fellow human. I'm Jieruei Chang.
 I'm a programmer and author who loves making things.
