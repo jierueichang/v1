@@ -5,4 +5,6 @@
 layout: default
 title: Welcome!
 ---
-# PUT SOMETHING HERE
+![]()
+# Greetings, fellow carbon-based life-form. I'm Jieruei Chang.
+I'm a programmer and author who loves making things.
