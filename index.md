@@ -5,15 +5,19 @@
 layout: default
 ---
 # Resume
+
 - Import
 - Something
 - Here
+
 # Projects
 
 # Maker Faire
+
 ## 2018
 ## 2017
 
 # Writing
+
 ## Taken Literally
 ## And Something Else
