@@ -5,7 +5,24 @@
 layout: default
 ---
 
-# The answer to life is 42
-## I am a carbon-based lifeform
+# Hello World
+Why do people say this?
+I don't know
 
+# I am a carbon-based lifeform
 Or so they say
+Maybe they're right
+
+Blah Blah
+Testing...
+
+Again...
+
+Or something...
+
+# The Answer
+to life
+the universe
+and everything
+
+might be 42
