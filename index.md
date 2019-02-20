@@ -4,20 +4,22 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-# Resume
+# Welcome!
+
+## Resume
 
 - Import
 - Something
 - Here
 
-# Projects
+## Projects
 
-# Maker Faire
+## Maker Faire
 
-## 2018
-## 2017
+### 2018
+### 2017
 
-# Writing
+## Writing
 
-## Taken Literally
-## And Something Else
+### Taken Literally
+### And Something Else
