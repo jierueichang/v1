@@ -4,25 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+# Resume
+- Import
+- Something
+- Here
+# Projects
 
-# Hello World
-Why do people say this?
-I don't know
+# Maker Faire
+## 2018
+## 2017
 
-# I am a carbon-based lifeform
-Or so they say
-Maybe they're right
-
-Blah Blah
-Testing...
-
-Again...
-
-Or something...
-
-# The Answer
-to life
-the universe
-and everything
-
-might be 42
+# Writing
+## Taken Literally
+## And Something Else
