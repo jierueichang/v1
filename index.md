@@ -3,23 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: Welcome!
 ---
-# Welcome!
-
-## Resume
-
-- Import
-- Something
-- Here
-
-## Projects
-
-## Maker Faire
-
-### 2018
-### 2017
-
-## Writing
-
-### Taken Literally
-### And Something Else
+# PUT SOMETHING HERE
