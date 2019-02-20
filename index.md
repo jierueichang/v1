@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Hello World
+# The answer to life is 42
 ## I am a carbon-based lifeform
 
 Or so they say
