@@ -5,6 +5,6 @@
 layout: default
 title: Welcome!
 ---
-![]()
+![](https://github.com/jierueichang/jierueichang.github.io/blob/master/jierueibanner.jpg)
 # Greetings, fellow human. I'm Jieruei Chang.
 I'm a programmer and author who loves making things.
