@@ -7,4 +7,4 @@ title: Welcome!
 ---
 ![](https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/jierueibanner.jpg)
 # Greetings, fellow human. I'm Jieruei Chang.
-I'm a programmer and author who loves making things.
+I'm a debatably intelligent bipedal humanoid carbon-based lifeform of the species *Homo Sapiens Sapiens*. I'm also a programmer and author who loves making things.
