@@ -6,6 +6,6 @@ permalink: /videos/
 # Jabberwocky
 <div align="center">
     <iframe width="560" height="315"
-        src="https://www.youtube.com/watch?v=ZoOW_KF0Ke0">
+        src="https://www.youtube.com/embed/ZoOW_KF0Ke0">
     </iframe>
 </div>
