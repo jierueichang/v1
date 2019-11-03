@@ -3,4 +3,4 @@ title: 'Projects'
 layout: page
 permalink: /projects/
 ---
-<iframe width=100% height=100% border=0px src="https://jierueichang.github.io/projectembed.html"> </iframe>
+<iframe style="width:100%;border:none;height=100%;" src="https://jierueichang.github.io/projectembed.html"> </iframe>
