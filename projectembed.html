@@ -1,8 +1,8 @@
 <html>
         <style>
             #card{
-                border-style:solid;
-                border-radius:5px;
+                border-style:none;
+                border-radius:10px;
                 border-color: black;
                 border-spacing:10px;
                 background-color:wheat;
@@ -31,10 +31,10 @@
                 if(image!=''){
                     document.getElementById("cards").innerHTML+=`
                     <div id=card>
-                    <img src=https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/${image} width=100% style="border-radius:2px">
-                    <h1>${name}</h1>
+                    <div style="float:right;width:35%"><img src=https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/${image} width=100% style="border-radius:2px"></div>
+                    <div style="float:left"><h1>${name}</h1>
                     <p>${description}</p>
-                    <button id="cssbutton" onClick="location.href='${link}'">View</button>
+                    <button id="cssbutton" onClick="location.href='${link}'">View</button></div>
                     </div>
                     `;
                 }
