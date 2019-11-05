@@ -12,9 +12,10 @@
                 font-family: sans-serif;
                 width:80%;
                 margin: 10px;
+		box-shadow: 5px 5px 9px #F0F0F0;
             }
             #cssbutton{
-                background-color: black; /* Green */
+                background-color: black;
                 border: none;
                 color: whitesmoke;
                 padding: 5px 10px;
@@ -23,6 +24,7 @@
                 display: inline-block;
                 font-size: 16px;
                 border-radius: 2px;
+		box-shadow: 2px 2px 4px #CFB178;
             }
         </style>
         <div id=cards></div>
@@ -31,7 +33,7 @@
                 if(image!=''){
                     document.getElementById("cards").innerHTML+=`
                     <div id=card>
-                    <div style="float:right;width:35%"><img src=https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/${image} width=100% style="border-radius:2px"></div>
+                    <div style="float:right;width:30%"><img src=https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/${image} width=100% style="border-radius:2px"></div>
                     <div style="float:left"><h1>${name}</h1>
                     <p>${description}</p>
                     <button id="cssbutton" onClick="location.href='${link}'">View</button></div>
@@ -55,3 +57,4 @@
         gencard('Conductor','Conduct a virtual orchestra with digital baton','','conductorlogo.png');
         </script>
 </html>
+
