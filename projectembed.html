@@ -1,16 +1,16 @@
 <html>
         <style>
             #card{
-                border:2px;
+                border-style:solid;
                 border-radius:5px;
                 border-color: black;
                 border-spacing:10px;
-                background-color:aliceblue;
+                background-color:wheat;
                 float: left;
                 padding:10px;
                 text-decoration: none;
                 font-family: sans-serif;
-                width:100%;
+                width:80%;
                 margin: 10px;
             }
             #cssbutton{
@@ -31,7 +31,7 @@
                 if(image!=''){
                     document.getElementById("cards").innerHTML+=`
                     <div id=card>
-                    <img src=${image} width=100% style="border-radius:2px">
+                    <img src=https://raw.githubusercontent.com/jierueichang/jierueichang.github.io/master/${image} width=100% style="border-radius:2px">
                     <h1>${name}</h1>
                     <p>${description}</p>
                     <button id="cssbutton" onClick="location.href='${link}'">View</button>
@@ -49,9 +49,9 @@
                 }
         
             }
-        gencard('ReMapper','Interactive Map Generation for Trip Recording','','');
-        gencard('Kalictric','Digitally-enabled Kalimba','','');
-        gencard('Cricket Pi','Little "Cute" MIDI Player','','');
-        gencard('Conductor','Conduct a virtual orchestra with digital baton','','');
+        gencard('ReMapper','Interactive Map Generation for Trip Recording','','remapperlogo2.png');
+        gencard('Kalictric','Digitally-enabled Kalimba','','kalictriclogo.png');
+        gencard('Cricket Pi','Little "Cute" MIDI Player','','cricketpilogo.png');
+        gencard('Conductor','Conduct a virtual orchestra with digital baton','','conductorlogo.png');
         </script>
 </html>
